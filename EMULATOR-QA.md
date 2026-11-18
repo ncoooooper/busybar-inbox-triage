@@ -1,6 +1,6 @@
 # Emulator verification
 
-Synthetic mail result at the adapter boundary. A personal mailbox was not connected.
+Simulated IMAP transport exercising the real read-only status, search, date fetch and parsing path. No personal mailbox was connected.
 
 Verified seven unread messages, including the oldest message age of three days. No message text was transferred.
 

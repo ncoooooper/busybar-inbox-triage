@@ -22,7 +22,7 @@ Seven unread messages could all be new, or one could have been waiting since Mon
 
 ## Example from the emulator
 
-The companion requests the unread count and internal arrival dates. A message marked unread in the mail client can affect both figures. No message bodies or subjects are needed for either calculation. Simulated IMAP transport exercising the real read-only status, search, date fetch and parsing path. No personal mailbox was connected.
+The companion requests the unread count and internal arrival dates. A message marked unread in the mail client can affect both figures. No message bodies or subjects are needed for either calculation. The recording used a simulated IMAP server response and exercised the same read-only queries used for a live mailbox.
 
 ## Set up the source
 

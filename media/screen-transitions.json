@@ -1,0 +1,47 @@
+{
+  "app": "busybar-inbox-triage",
+  "sha256": "d71c8316694e197518bb4e67a27d8f4285e90d700790d97558f81e2aa1c33003",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "check-unread-age",
+        "return-to-mail-count"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "up"
+        ],
+        [
+          "down",
+          "ok"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        8,
+        7,
+        27
+      ],
+      "rear_frames": 14,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}

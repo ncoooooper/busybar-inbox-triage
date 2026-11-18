@@ -1,6 +1,17 @@
 {
   "app": "busybar-inbox-triage",
-  "sha256": "d71c8316694e197518bb4e67a27d8f4285e90d700790d97558f81e2aa1c33003",
+  "sha256": "2a1841ca5d4d6ce6a252b311f7f669f26dd2d7bc84ebb77e17ece762a32b1b98",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.inboxtriage",
+    "sha256": "2a1841ca5d4d6ce6a252b311f7f669f26dd2d7bc84ebb77e17ece762a32b1b98",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 91.8,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
   "firmware": "1.3.1",
   "cell": 16,
   "lit": 14,

@@ -4,6 +4,6 @@
   "name": "Inbox Triage",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Inbox Triage",
+  "description": "Read unread count and the age of your oldest unread message without showing mail contents.",
   "author": "ncoooooper"
 }
